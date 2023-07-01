@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+
+p{
+    color: #ff0055;
+}
+
+img{
+    width: 400px;
+}
+
+.man{
+
+    color: blueviolet;
+    font-weight: 1000;
+
+}
+
+.perent{
+
+    width: 500px;
+    margin: 0 auto;
+      
+}
